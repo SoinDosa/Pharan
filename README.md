@@ -16,6 +16,6 @@
 
 ## 게임 스냅샷
 <img src="Pharan_Logo.jpg" width=50%><br>
-<img src="Pharan_Play.jpc" width=50%>
+<img src="Pharan_Play.jpg" width=50%>
 ## 게임 소개 영상
 <a href="https://youtu.be/tNADiq2DHBA">Youtube Link</a>
