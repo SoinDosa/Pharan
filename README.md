@@ -1,6 +1,11 @@
 # Pharan
 ## 개발 참여자
-한국, 서울과학기술대학교(Republic of Korea, Seoul national university of Science and Technology) 학술동아리 EndlessCreation 27기 김선휘
+### SoinDosa(기획, 개발, 디자인)
+
+## 개발 환경
+### Language : C#
+### Graphic : SaiTool
+### IDE : Unity 5.6.1
 
 ## 어떤 게임인가?
 2017년 당시 컴퓨터공학과 학술동아리 EC에서 개최된 신입생 개발대회(EC)Advance)에 참석하여 개발한 게임으로, 가장 처음 유니티개발을 접하게 해준 프로젝트 입니다.<br>
@@ -11,3 +16,5 @@
 
 ## 게임 스냅샷
 
+## 게임 소개 영상
+<a href="https://youtu.be/tNADiq2DHBA">Youtube Link</a>
