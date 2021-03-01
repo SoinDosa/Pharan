@@ -1,0 +1,2 @@
+C:\Users\MSI PC\Documents\Unity\PhaRan Alpha\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\MSI PC\Documents\Unity\PhaRan Alpha\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
