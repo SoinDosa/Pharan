@@ -15,6 +15,7 @@
 추후 기회가 된다면 당시 기획된 내용대로 개발하고 싶습니다.
 
 ## 게임 스냅샷
-
+<img src="Pharan_Logo.jpg" width=50%><br>
+<img src="Pharan_Play.jpc" width=50%>
 ## 게임 소개 영상
 <a href="https://youtu.be/tNADiq2DHBA">Youtube Link</a>
